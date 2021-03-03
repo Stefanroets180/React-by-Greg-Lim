@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-//import Products from './Products';
 import JumboTronComponent from './JumboTronComponent';
+//import Products from './Products';
 
 class App extends Component {
   render() {        
     return (
       <div>
-      <JumboTronComponent />        
+        <JumboTronComponent />        
       </div>
     );
   }
